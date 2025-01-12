@@ -1,0 +1,34 @@
+{
+    "name": "Player Controls",
+    "maps": [
+        {
+            "name": "Player actions",
+            "id": "b3d69b55-1b22-49e1-97e4-03414f462d8e",
+            "actions": [
+                {
+                    "name": "Gamble",
+                    "type": "Button",
+                    "id": "be834573-462e-47b2-9dce-822265ef287e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "de22a993-8efd-4507-ae74-432fd1df7a81",
+                    "path": "<Keyboard>/g",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Gamble",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
